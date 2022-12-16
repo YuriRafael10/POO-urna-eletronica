@@ -1,0 +1,64 @@
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.exe
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.deps.json
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.runtimeconfig.json
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.runtimeconfig.dev.json
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.dll
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.pdb
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.csproj.AssemblyReference.cache
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.AssemblyInfoInputs.cache
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.AssemblyInfo.cs
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.dll
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\refint\UrnaEletronica.dll
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.pdb
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.genruntimeconfig.cache
+C:\Users\yuriz\source\repos\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\ref\UrnaEletronica.dll
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.exe
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.deps.json
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.runtimeconfig.json
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.runtimeconfig.dev.json
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.dll
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.pdb
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.csproj.AssemblyReference.cache
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.AssemblyInfoInputs.cache
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.AssemblyInfo.cs
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.dll
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\refint\UrnaEletronica.dll
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.pdb
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.genruntimeconfig.cache
+C:\Users\yuriz\source\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\ref\UrnaEletronica.dll
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.exe
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.deps.json
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.runtimeconfig.json
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.runtimeconfig.dev.json
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.dll
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.pdb
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.AssemblyInfo.cs
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.dll
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\refint\UrnaEletronica.dll
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.pdb
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.genruntimeconfig.cache
+C:\Users\User\Desktop\EXERCICIOS PUC\projetos\projetosVisualStidio\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\ref\UrnaEletronica.dll
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.exe
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.deps.json
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.runtimeconfig.json
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.runtimeconfig.dev.json
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.dll
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\bin\Debug\net5.0\UrnaEletronica.pdb
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.csproj.AssemblyReference.cache
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.AssemblyInfoInputs.cache
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.AssemblyInfo.cs
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.dll
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\refint\UrnaEletronica.dll
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.pdb
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\UrnaEletronica.genruntimeconfig.cache
+C:\Users\yuriz\Downloads\UrnaEletronica\UrnaEletronica\obj\Debug\net5.0\ref\UrnaEletronica.dll
